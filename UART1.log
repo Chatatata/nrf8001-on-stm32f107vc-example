@@ -1,0 +1,51 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F107VC -BIN -LHF -DL -SSA -O11111114 -fo72 -N"C:\Users\Chatatata\Documents\UART1\UART1.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Chatatata\Documents\UART1\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Examples\ST\Development Systems\EasyMx PRO v7 for STM32 ARM\UART1\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -SP"C:\Users\Chatatata\Downloads\Click_BLE_P_NRF8001-master3\Click_BLE_P_NRF8001-master\example\" -SP"C:\Users\Chatatata\Documents\UART1\src\" -SP"C:\Users\Chatatata\Documents\UART1\src\" -SP"C:\Users\Chatatata\Documents\UART1\src\" -SP"C:\Users\Chatatata\Documents\UART1\src\" -SP"C:\Users\Chatatata\Documents\UART1\src\" -SP"C:\Users\Chatatata\Documents\UART1\src\" -SP"C:\Users\Chatatata\Documents\UART1\src\" -SP"C:\Users\Chatatata\Documents\UART1\src\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\Click_BLE_P\Uses\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Chatatata\Documents\UART1\include\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\Click_BLE_P\Uses\" "UART1.c" "ble_uart.c" "uart_aci.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_105_107.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl" "__Lib_CType.emcl" "__Lib_CString.emcl" "__Lib_CStdlib.emcl" "__Lib_Sprinti.emcl" "__Lib_SPI_123.emcl" "__Lib_UART_123_45.emcl" "blep_hal.emcl" "hal_aci_tl.emcl" "acilib.emcl" "lib_aci.emcl" "aci_setup.emcl" "aci_queue.emcl" "mikroc_interrupts.emcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Chatatata\Documents\UART1\src'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Chatatata\Documents\UART1\src'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Chatatata\Documents\UART1\src'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Chatatata\Documents\UART1\src'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Chatatata\Documents\UART1\src'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Chatatata\Documents\UART1\src'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Chatatata\Documents\UART1\src'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Chatatata\Documents\UART1\src'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Chatatata\Documents\UART1\include'	 
+hint: 79	1354	 warning: The macro is redefined     #define _aci_packed_ __attribute__((__packed__))     from c:/users/public/documents/mikroelektronika/mikroc pro for arm/packages/click_ble_p/uses/hal_aci_tl.h: 46:    #include "aci.h"     from c:/users/public/documents/mikroelektronika/mikroc pro for arm/packages/click_ble_p/uses/lib_aci.h: 35:    #include "hal_aci_tl.h"     from c:/users/chatatata/documents/uart1/uart_aci.h: 26:    #include "lib_aci.h"     from c:/users/chatatata/documents/uart1/ble_uart.h: 26:    #include "uart_aci.h"     from C:/Users/Chatatata/Documents/UART1/UART1.c: 2:    #include "ble_uart.h"     previously macro "_aci_packed_" defined as: #define _aci_packed_ 	c:\users\public\documents\mikroelektronika\mikroc pro for arm\packages\click_ble_p\uses\aci.h
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 120	123	Compiled Successfully	UART1.c
+hint: 79	1354	 warning: The macro is redefined     #define _aci_packed_ __attribute__((__packed__))     from c:/users/public/documents/mikroelektronika/mikroc pro for arm/packages/click_ble_p/uses/hal_aci_tl.h: 46:    #include "aci.h"     from c:/users/public/documents/mikroelektronika/mikroc pro for arm/packages/click_ble_p/uses/lib_aci.h: 35:    #include "hal_aci_tl.h"     from c:/users/chatatata/documents/uart1/uart_aci.h: 26:    #include "lib_aci.h"     from c:/users/chatatata/documents/uart1/ble_uart.h: 26:    #include "uart_aci.h"     from C:/Users/Chatatata/Documents/UART1/ble_uart.c: 55:    #include "ble_uart.h"     previously macro "_aci_packed_" defined as: #define _aci_packed_ 	c:\users\public\documents\mikroelektronika\mikroc pro for arm\packages\click_ble_p\uses\aci.h
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 188	123	Compiled Successfully	ble_uart.c
+hint: 79	1354	 warning: The macro is redefined     #define _aci_packed_ __attribute__((__packed__))     from c:/users/public/documents/mikroelektronika/mikroc pro for arm/packages/click_ble_p/uses/hal_aci_tl.h: 46:    #include "aci.h"     from c:/users/public/documents/mikroelektronika/mikroc pro for arm/packages/click_ble_p/uses/lib_aci.h: 35:    #include "hal_aci_tl.h"     from c:/users/chatatata/documents/uart1/uart_aci.h: 26:    #include "lib_aci.h"     from C:/Users/Chatatata/Documents/UART1/uart_aci.c: 22:    #include "uart_aci.h"     previously macro "_aci_packed_" defined as: #define _aci_packed_ 	c:\users\public\documents\mikroelektronika\mikroc pro for arm\packages\click_ble_p\uses\aci.h
+diagnostics: 0	122	Compilation Started	stdint.h
+warning: 65	1506	Implicit conversion of pointer to int	uart_aci.c
+warning: 66	1506	Implicit conversion of pointer to int	uart_aci.c
+warning: 67	1506	Implicit conversion of pointer to int	uart_aci.c
+warning: 69	1506	Implicit conversion of pointer to int	uart_aci.c
+diagnostics: 332	123	Compiled Successfully	uart_aci.c
+hint: 78	1164	Variable 'conn_params' has been eliminated by optimizer	uart_aci.c
+hint: 75	1164	Variable 'length' has been eliminated by optimizer	uart_aci.c
+diagnostics: 0	127	All files Compiled in 391 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 1226   Dynamic RAM (bytes): 64305	Static RAM (bytes): 1226   Dynamic RAM (bytes): 64305
+hint: 0	1144	Used ROM (bytes): 15441 (6%)  Free ROM (bytes): 246703 (94%)	Used ROM (bytes): 15441 (6%)  Free ROM (bytes): 246703 (94%)
+diagnostics: 0	125	Project Linked Successfully	UART1.mcpar
+diagnostics: 0	128	Linked in 531 ms	 
+diagnostics: 0	129	Project 'UART1.mcpar' completed: 1125 ms	 
+diagnostics: 0	103	Finished successfully: 25 Mar 2017, 19:59:37	UART1.mcpar
